@@ -1,0 +1,8 @@
+Productsbysellerid,
+product controller update, 
+middleware ===> verify seller-crud
+,verify token ===> list,
+payment gateway,
+order pdf,
+url creation, ====> frontend
+video popup add  ===> frontend
